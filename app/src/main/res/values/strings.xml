@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica 8</string>
+    <string name="pies">Pies</string>
+    <string name="metros">Metros</string>
+    <string name="convertir">Convertir</string>
+    <string name="pulgadas">Pulgadas</string>
+    <string name="yardas">Yardas</string>
+    <string name="met">Metros</string>
+    <string name="millas">Millas</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
